@@ -1,4 +1,0 @@
-NumberHits:0
-Timestamp: Wed May 22 07:31:58 UTC 2024
-VLNV: xilinx.com:ip:xlconcat:2.1
-SynthRuntime: 26
