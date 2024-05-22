@@ -1,0 +1,8 @@
+11:19:53 **** Incremental Build of configuration Debug for project bram_latest_testing ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+ 
+make: Nothing to be done for 'main-build'.
+
+11:19:54 Build Finished (took 183ms)
+
